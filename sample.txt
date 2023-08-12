@@ -1,1 +1,25 @@
-Node Test
+Node Js
+------------
+Async
+Single Thread
+Non Blocking I/O
+Chrome v8
+Machine code
+open source
+
+npm > node package manager
+JSON > Javascript Object Notation
+
+[
+    {
+        name:"Santanu",
+        class:"Node"
+    },
+    {
+        name:"Sidhanta",
+        class:"Angular"
+    }
+]
+
+package.JSON
+>
