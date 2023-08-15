@@ -24,4 +24,9 @@ JSON > Javascript Object Notation
 package.JSON
 >
 
-COMPLITED 4TH VIDEO
+HTTP: It is a package which help us to create a server.
+
+req > What ever we will send to the server like form/params/queryparams
+res > what sever will respond
+
+COMPLITED 5TH VIDEO

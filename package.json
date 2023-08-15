@@ -1,0 +1,23 @@
+{
+  "name": "node_basic_advanced_level",
+  "version": "1.0.0",
+  "description": "this is start app",
+  "main": "fs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node staticapi.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santanupaikaray23/node_basic_advanced_level.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "test",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santanupaikaray23/node_basic_advanced_level/issues"
+  },
+  "homepage": "https://github.com/santanupaikaray23/node_basic_advanced_level#readme"
+}
